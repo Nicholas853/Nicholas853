@@ -1,37 +1,30 @@
-# 👋 Hi, I'm Mykola Shprynts  
+# 👋🏻 Hi, I'm Mykola Shprynts  
 
 ## 🚀 Front-End Development | 3 Years of Experience | React.js & Next.js  
 
-### 💻 About Me  
-I’m a Front-End Developer with **3+ years of experience** building scalable, high-performance web and mobile applications.  
-I specialize in **React.js, Next.js, React Native, and TypeScript**, delivering clean UI, optimized architecture, and apps that drive results.  
+📈 My last landing page increased conversions by 60% in the first month. A healthcare monorepo app I optimized now loads 3x faster and reduced bugs by 70%.
 
-✨ Proven results:  
-- Boosted **landing page conversion by 60%**  
-- Improved **SEO & Lighthouse scores to 95+**  
-- Built fintech, healthcare & SaaS solutions with **thousands of active users**  
+100% Job Success | ⭐⭐⭐⭐⭐ Feedback | Clients keep coming back for more
 
----
+🧑‍💻 𝟯+ 𝘆𝗲𝗮𝗿𝘀 of proven experience building fintech, landing websites, SaaS, and healthcare products.
+Clients value me for speed, proactive communication, and results that require minimal revisions.
 
-### 🛠 Tech Stack  
-**Frontend:** React.js, Next.js, React Native, TypeScript, Tailwind CSS, Chakra UI, MUI, Tamagui  
-**Backend & APIs:** Node.js, REST, GraphQL, Supabase, Stripe API, OpenAI API  
-**Tools & Workflow:** GitHub, Vercel, Netlify, Expo, Cypress, Jest, Figma, Notion  
+<img src="https://raw.githubusercontent.com/Nicholas853/Nicholas853/refs/heads/main/assets/technology-stack.png" alt="stacks"/>
 
----
-
-### 📈 Featured Projects  
-- **TimeTrack App** – Project management & time tracking (React, Next.js, MongoDB)  
-- **Recipe Discovery Platform** – Advanced search & favorites with TanStack Query  
-- **Digital Agency Landing Page** – Custom HTML/CSS/JS implementation  
-- **NextGen WMS** – Real-time dashboards & warehouse workflows (React, MUI, Zustand)  
-- **LoungeQuest** – Airport lounge discovery app (Next.js, Tailwind, Supabase)  
-- **Eddii Health** – React Native & Next.js healthcare platform  
-
----
-
-### 📫 Let’s Connect  
-🌍 Portfolio: [UpWork Profile](https://www.upwork.com/freelancers/nicholas853)    
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div align="left">
+    <h3>📈 My last projects:</h3>
+    <a target="_blank" rel="noopener noreferrer" href="https://fossil-earwig-f44.notion.site/Mykola-Shprynts-Portfolio-2737b5bc0d428138badff0540575995e">
+      My Notion Portfolio
+    </a>
+  </div>
+  <div align="left">
+    <h3>📈 My UpWork:</h3>
+    <a href="https://www.upwork.com/freelancers/nicholas853" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+      <span>Invite me</span>
+    </a>
+  </div>
+</div>
 
 ---
 
