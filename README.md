@@ -31,8 +31,8 @@ Clients value me for speed, proactive communication, and results that require mi
 <p align="center">
 <a href="https://github.com/Nicholas853">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas853&theme=default&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicholas853&theme=default&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas853&theme=default&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicholas853&theme=default&hide_border=false"/>
 </a>
 </p>
 
