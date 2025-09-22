@@ -28,4 +28,16 @@ Clients value me for speed, proactive communication, and results that require mi
 
 ---
 
-⭐️ *If you like my work, feel free to star my repositories or reach out to collaborate!*  
+<p align="center">
+<a href="https://github.com/Nicholas853">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas853&theme=default&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicholas853&theme=default&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas853&theme=default&show_icons=true&hide_border=false&layout=compact"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐️ If you like my work, feel free to star my repositories or reach out to collaborate! ⭐️
+</p>
