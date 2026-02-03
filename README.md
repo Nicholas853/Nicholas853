@@ -1,12 +1,12 @@
 # 👋🏻 Hi, I'm Mykola Shprynts  
 
-## 🚀 Front-End Development | 3 Years of Experience | React.js & Next.js  
+## 🚀 Front-End Development | 4 Years of Experience | React.js & Next.js  
 
 📈 My last landing page increased conversions by 60% in the first month. A healthcare monorepo app I optimized now loads 3x faster and reduced bugs by 70%.
 
 100% Job Success | ⭐⭐⭐⭐⭐ Feedback | Clients keep coming back for more
 
-🧑‍💻 𝟯+ 𝘆𝗲𝗮𝗿𝘀 of proven experience building fintech, landing websites, SaaS, and healthcare products.
+🧑‍💻 4+ 𝘆𝗲𝗮𝗿𝘀 of proven experience building fintech, landing websites, SaaS, and healthcare products.
 Clients value me for speed, proactive communication, and results that require minimal revisions.
 
 <br/>
